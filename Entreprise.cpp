@@ -11,6 +11,8 @@
 
 #include "entreprise.h"
 
+
+
 using namespace std;
 
 
@@ -22,8 +24,8 @@ using namespace std;
  */
 Entreprise::Entreprise() {
 
-    this->nomEntreprise = "CHBA Hopital Chubert";
-    this->villeEntreprise = "Vannes 56000";
+    this->nomEntreprise = "anonyme";
+    this->villeEntreprise = "inconnu";
 
 }
 
