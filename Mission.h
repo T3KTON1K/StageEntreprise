@@ -1,3 +1,11 @@
+/*****************************************************************//**
+ * \file   Mission.h
+ * \brief  Declaration de la classe entreprise
+ *
+ * \author T3KTON1K
+ * \date   September 2024
+ *********************************************************************/
+
 #ifndef MISSION_H
 #define MISSION_H
 #include <iostream>

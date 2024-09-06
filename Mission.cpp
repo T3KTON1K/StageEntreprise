@@ -2,9 +2,9 @@
  * \file   Mission.cpp
  * \brief  Definition de la classe Entreprise
  *
- * \author Pierre
- * \version 0.1
- * \date   June 2023
+ * \author T3KTON1K
+ * \version 0.2
+ * \date   September 2024
  *
  * Programme Cpp permettant de creer des objets pour décrire les stages
  *********************************************************************/
