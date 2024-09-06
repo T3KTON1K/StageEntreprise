@@ -86,6 +86,7 @@ Mission& Mission::operator = (const Mission& entre)
 }
 
 
+
 /**
  * \brief Accesseur de l'attribut nomEntreprise
  *
